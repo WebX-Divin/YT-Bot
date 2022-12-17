@@ -6,7 +6,7 @@
 # YT Song Downloader Bot
 💡Telegram bot for Downloading Songs From YouTube 📺 
 
-![logo](https://graph.org/WebX-Bots-12-17)
+
 # Reach me on Telegram [WebX_Bots 🎶](https://t.me/Web_X_Bots)
 
 
